@@ -1,0 +1,15 @@
+.main-container {
+  text-align: center;
+  border: 2px solid black;
+  margin: 2rem;
+  padding: 2rem;
+  background-color: #c2f0ef;
+}
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#increment {
+  margin: 1rem;
+}
